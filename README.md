@@ -55,7 +55,7 @@ A proactive, Nairobi-native transit intelligence agent built with Google Gemini.
 npm run dev
 ```
 
-The application will be available at `http://localhost:3000`.
+The application will be available at `https://matatu-intelligence-agent-360087733493.europe-west2.run.app`.
 
 **Production Build**:
 
