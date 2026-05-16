@@ -1,0 +1,27 @@
+{
+  "hubs": [
+    "CBD",
+    "Westlands",
+    "Yaya",
+    "Ngara",
+    "Machakos Bus Station",
+    "Kawangware",
+    "Ruai",
+    "Thika Road Mall (TRM)",
+    "Donholm",
+    "Kayole",
+    "Utawala",
+    "Roysambu",
+    "Karen",
+    "Lang'ata",
+    "Eastleigh"
+  ],
+  "routes": [
+    { "id": "46", "origin": "Kawangware", "destination": "CBD", "stages": ["Kawangware", "Lavington", "Hurlingham", "Kencom"], "base_fare": 50 },
+    { "id": "23", "origin": "Outering", "destination": "CBD", "stages": ["Donholm", "Jogoo Road", "Commercial"], "base_fare": 60 },
+    { "id": "33", "origin": "Ngong", "destination": "CBD", "stages": ["Ngong", "Karen", "Lang'ata Road", "Kencom"], "base_fare": 80 },
+    { "id": "120", "origin": "Ruai", "destination": "CBD", "stages": ["Ruai", "Utawala", "Outering", "Commercial"], "base_fare": 100 },
+    { "id": "105", "origin": "Kikuyu", "destination": "CBD", "stages": ["Kikuyu", "Westlands", "Waiyaki Way", "Khoja"], "base_fare": 70 },
+    { "id": "44", "origin": "Kahawa West", "destination": "CBD", "stages": ["Kahawa West", "Zimmerman", "Roysambu", "Ngara"], "base_fare": 60 }
+  ]
+}

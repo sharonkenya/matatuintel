@@ -1,0 +1,8 @@
+{
+  "name": "Matatu Intelligence Agent",
+  "description": "Crowdsourced Nairobi matatu intelligence using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
