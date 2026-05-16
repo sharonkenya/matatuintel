@@ -2,7 +2,7 @@
 
 A proactive, Nairobi-native transit intelligence agent built with Google Gemini. It crowdsources real-time transit reports (slang, lingo, and all) and reasons through the best routes to keep you moving through the city.
 
-![Matatu Intel Preview](https://images.unsplash.com/photo-1549421263-549433994784?q=80&w=1200&auto=format&fit=crop)
+https://matatu-intelligence-agent-360087733493.europe-west2.run.app/
 
 ## 🛑 The Problem
 
